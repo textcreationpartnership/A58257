@@ -1,0 +1,219 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>England's petition to the two houses assembled in Parliament, or, An Humble petition of the distressed and almost destroyed subjects of England to the two houses, containing (in the judgment of the wise) the very sense of all the truehearted of the kingdom ... / N.R.</title>
+            <author>N. R.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58257</idno>
+            <idno type="STC">Wing R54</idno>
+            <idno type="STC">ESTC R33935</idno>
+            <idno type="EEBO-CITATION">13620527</idno>
+            <idno type="OCLC">ocm 13620527</idno>
+            <idno type="VID">100835</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58257)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100835)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1043:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>England's petition to the two houses assembled in Parliament, or, An Humble petition of the distressed and almost destroyed subjects of England to the two houses, containing (in the judgment of the wise) the very sense of all the truehearted of the kingdom ... / N.R.</title>
+                  <author>N. R.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London ;</pubPlace>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>MDCXLIII [1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: ink show-through, pages stained with loss of print.</note>
+                  <note>Signed: "Your fellow subjects throughout the whole kingdom".</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  History.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100835:1"/>
+            <pb facs="tcp:100835:1" rendition="simple:additions"/>
+            <p>ENGLANDS PETITION TO THE <hi>TWO HO<g ref="char:V">Ʋ</g>SES</hi> Aſſembled in PARLIAMENT.</p>
+            <p>OR, <hi>An humble Petition of the diſtreſſed and almoſt deſtroyed Subjects of</hi> England To the <hi>TWO HO<g ref="char:V">Ʋ</g>SES.</hi>
+            </p>
+            <p>Containing (in the Iudgement of the wiſe) the very ſenſe of all the true hearted of the Kingdom; but becauſe the way to their Highneſſe eare is ſtopt, it was ſent to OXFORD, and there Printed, and afterwards preſented to the <hi>HO<g ref="char:V">Ʋ</g>SES,</hi>
+            </p>
+            <p>By <hi>N. R.</hi>
+            </p>
+            <q>
+               <p>Know yee not yet that our <hi>Canaan</hi> is deſtroyed?</p>
+               <bibl>
+                  <hi>Exod. 10.7.</hi>
+               </bibl>
+            </q>
+            <p>Printed at <hi>London,</hi> and Reprinted at <hi>Oxford.</hi> M.DC.XLIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:100835:2"/>
+            <pb n="3" facs="tcp:100835:2" rendition="simple:additions"/>
+            <head>TO THE TWO HOVSES ASSEMBLED <hi>IN PARLIAMENT.</hi> The humble Petition of the diſtreſſed and almoſt deſtroyed Subjects of the Kingdome of <hi>England.</hi>
+            </head>
+            <opener>
+               <salute>RIGHT HONOVRABLE,</salute>
+            </opener>
+            <p>IT is a double griefe to our ſoules, that we ſhould be contrained to beg for our lives at Your <hi>(our fellow Subjects)</hi> hands, who are bound <hi>by the Law of God and nature, and by the Oathes &amp; Proteſtations that you have taken,</hi> to preſerve them; and that we ſhould be forced to intreat you to ſpare our eſtates (which you have no<g ref="char:EOLhyphen"/>thing to doe withall) Liberties and blood, whoſe honour and ſtrength depends ſo much on theſe our enjoyments: But extremity prevaileth, and drives us to You (the grand Court of <hi>England</hi>) and caſteth us here proſtrate at your feet; and let not your <hi>Greatneſſe</hi> be offended, if we ſpeake more plainely then uſually becommeth us, for neceſſity hath no Law: It is for our lives and more, and therefore blame us not to ſpeake, our Friends, our Wives, our Children, our wants, our dangers, our Coun<g ref="char:EOLhyphen"/>try, our blood, doe all pierce our eares and hearts with their daily and dolefull cries: O that our requeſts could finde as quicke acceſſe to yours!</p>
+            <p>Surely, it is impoſſible that you (being ſo many) ſhould All be ignorant of the dolefull condition <hi>His Majeſties two Kingdomes</hi> are in: Doe ye not know that our houſes are plundered, and the fruit of our long labour taken from us? That men who have heretofore relieved hundreds of the poore, have not left them a Bed to lye on, food to ſuſtaine them, or a houſe (except it be a Gaole) to put their heads in? And the poore they were wont to relieve, are become Souldiers, and rob us (even at noone day) by <hi>Your authority?</hi> Know you not how many thouſand diſtreſſed ſoules cry to God day and night in their anguiſh and miſery, while they ſee you (who have undertaken to relieve them) having no compaſſion on them? <q>Oh, where are now thoſe <hi>Heroick and renowned Spirits</hi> that have formerly ſate in your Seat? They were wont to beat downe <hi>Hereſie and Schiſme,</hi> to relieve the oppreſſed, to ſettle Peace, to ſuppreſſe Vice, and to endeavour a generall <hi>Reformation</hi> both in Church and State; but now you foſter Hereticks and Schiſmaticks in your bo<g ref="char:EOLhyphen"/>ſome, You ſend Knaves to oppreſſe us and rob us of all we have, and then im<g ref="char:EOLhyphen"/>priſon our bodies, where many thouſand able and Religious men are ready to ſtarve for want of ſuſtenance. You breake the Peace and beget Rebellion and Confuſion in all places. You countenance Vice and Sinne (how ever you would make the gul'd people believe that you are mighty religious, whileſt you zea<g ref="char:EOLhyphen"/>louſly
+<pb n="4" facs="tcp:100835:3"/>pull downe Croſſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, and Phariſaically debarre men from workes of cha<g ref="char:EOLhyphen"/>rity, yea, neceſſity upon the <hi>Lords day,</hi> which is to <hi>ſtraine at Gnats and ſwallow Camells:</hi> You have brought in a generall <hi>Deformation</hi> over the whole Kingdome.</q> They were wont to take order for the reliefe of poore oppreſſed Priſoners at home, and Galley-ſlaves abroad, but now the loathſome Priſons of <hi>London, Lambeth, Cam<g ref="char:EOLhyphen"/>bridge, Norwi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h, Ipſwich, Yarmouth, Colchester</hi> and other places, are filled with their miſerable, ſtarved, diſeaſed bodies, who (ſome of them) would thinke them<g ref="char:EOLhyphen"/>ſelves halfe free-men, were they <hi>Turkiſh Gally-ſlaves,</hi> ſuch is their cruell uſage.</p>
+            <p>Know you not how our Lands lye untilled, whileſt your Souldiers take away our Horſes, and tolerate our ſervants to runne from us? And what can follow this but extreame Famine? Know you not how much precious blood is ſpilt, and the dead bodies of the Kings Subjects, yea, many of his Nobles ſcattered as dung upon the face of the earth? Have not many of your eyes ſeene it, and your eares heard the groanes of the wounded gaſping for life? Is all this nothing in your eyes? To whom ſhould we goe but unto You, who have taken upon you to relieve us in our diſtreſſes? You have diſabled His Majeſty from relieving of Himſelfe; You have bewitched (or by force kept back) his Subjects every where from comming to His helpe; we have tryed all other knowne meanes, and profeſſe in the ſight of God, we know none but you, that can deliver us without more blood and deſolation; and the World knowes you may doe it if you will, and doe it eaſily, and doe it with increaſe of your Honour, of your Loyalty, of your Honeſty, of your and the whole Kingdomes ſafety and happineſſe. What if it were to part with ſome thing <hi>of your owne wills,</hi> and quietly to yeeld up the bodyes of ſome few Delinquents and knowne Traytors to His Majeſty, and enemies to the Peace, to ſave all the reſt of the Kingdome?</p>
+            <p>
+               <hi>Dread Senators,</hi> We beſeech you conſider, what hath <hi>His Sacred Majeſty</hi> done that deſerves this from you? Is it becauſe He hath relieved you from oppreſſing Courts (a Grace beyond preſident) and biting Taxations? Is it becauſe He hath condeſcended to the calling of a <hi>Trienniall Parliament</hi> (a thing never heard of in former ages) and granted <hi>His Royall Aſſent</hi> to the continuance of this as long as you pleaſe? Ought wee not all of us for theſe ſingular, and unheard of Acts of Grace, to lay downe our lives at His feet? Is it becauſe He hath ever yeelded to the puniſhment of thoſe that are called <hi>Delinquents</hi> (though it may be his beſt friends) and ſuppoſed enemies to the Kingdome? If you were a Court of Iuſtice, as you are the Higheſt Court, you would doe the like to thoſe among you, that have de<g ref="char:EOLhyphen"/>ſerved it But can thoſe be friends to you and worth the defending, that are enemies to the <hi>King and Kingdome?</hi> And for His Forts and Navy which you have taken from him, were they not moſt of them bought with His owne money? And yet were they not alwayes imployed for the Kingdomes good? And are not you the <hi>Kingdome Repreſentative</hi> (yet not ſo as if there were but two — <hi>Wiſe men</hi> in a County and all the reſt <hi>Fooles?</hi>) And will you wrong that Truſt that we have re<g ref="char:EOLhyphen"/>poſed in you? 'Tis true, His Majeſty cannot poſſibly manage all in His own Perſon
+<pb n="5" facs="tcp:100835:3"/>but by His Miniſters, and thoſe choſen by <hi>Councell,</hi> and it hath been alwayes judg<g ref="char:EOLhyphen"/>ed that none have beene more able, impartiall, and faithfull to adviſe Him then His <hi>Parliament:</hi> but what? ſhall we call you a <hi>Parliament,</hi> when your Head and moſt of your <hi>beſt Members</hi> have deſerted you? He offered not to ſtirre from you till abſo<g ref="char:EOLhyphen"/>lute neceſſity conſtrained Him, till He ſaw <hi>Ireland</hi> in Rebellion, the Rebels threat<g ref="char:EOLhyphen"/>ning <hi>England,</hi> the ſame Spirits as malignant and active at home,<note place="margin">White-Hall.</note> even at <hi>His owne houſe,</hi> where His owne life (wee tremble to thinke of it) was in preſent ap<g ref="char:EOLhyphen"/>parent jeopardy, and your conſent (ſince His conſtrained departure from you) to all <hi>His moſt gracious</hi> Meſſages denyed. We cannot but ſee the ſame Counſels a<g ref="char:EOLhyphen"/>mong you ſetting you on againſt <hi>His Majeſty</hi> now, which have cauſed His ſo long diſcontinuance from you, (that they in the meane time might work their own ends) that cauſed the Ship-mony and other illegall (though not ſo known to <hi>His Majeſty</hi>) Taxations, which cauſed the late <hi>innovations</hi> in Church and State, which cauſed the warre with <hi>Scotland,</hi> which broke up the laſt <hi>Parliament,</hi> and have cauſed ſo many invective <hi>Declarations</hi> againſt <hi>His Majeſty</hi> in the very language of the preſent times. We cannot poſſibly conceive what <hi>His Majeſty</hi> can doe now to remedy any of theſe miſeries: We patiently abide your long ſitting in vaine; the offenders among you Legally proceeded againſt, are defended from <hi>His Majeſty,</hi> yea, thoſe that <hi>your ſelves</hi> (if you durſt (for feare of one another) ſpeak your mindes) doe know to be ſuch: that is denied <hi>His Majeſty</hi> which is yeelded to every Subject in every loweſt Court of Iuſtice, <hi>viz:</hi> to have a faire triall. We perſwade our ſelves (by thoſe many pro<g ref="char:EOLhyphen"/>miſes, and deep Proteſtations <hi>His Majeſty</hi> hath made, that He deſireth nothing more (if it might be done with His ſafety) then to be preſent with you, and concurre with you, and if your mindes had not beene ſo haughty, and your thoughts ſo ſoa<g ref="char:EOLhyphen"/>ring as we finde they are, there would not have beene ſo long a diſtance. Neither is there any viſible means left, but either give up our States, Liberties, Lives and Re<g ref="char:EOLhyphen"/>ligion to the dispoſe of your too long tried ſecret Counſels and <hi>Cloſe Commitees,</hi> and make <hi>your meere Will the onely Law</hi> (as you have done ever ſince the King left you) and ſo prove diſloyall to our Soveraigne, betray our Country and the Truſt commit<g ref="char:EOLhyphen"/>ted to you (which God forbid) of elſe defend our ſelves (as you doe) by the Sword.</p>
+            <p>And for us the <hi>Kings Leige people</hi> what have we done that we are made a common ſpoile? Would you have us perfidiouſly to betray <hi>His Majeſty</hi> into your Lauds? Would you have us prove diſloyall unto Him, who hath alwayes beene ſo faith full unto us? to endanger Him, whom God hath appointed to ſave us? Should we be ſuch unnaturall members as to offer violence to our Head? Then ſhould we be the diſgrace of the <hi>Engliſh Nation,</hi> the reproach of poſterity, the very ſhame of nature, and ſhould preſently expect ſome ſtrange judgment of God according to the ſtrang<g ref="char:EOLhyphen"/>neſſe of our offence.</p>
+            <p>It's true we are forced (and it is high time too) to look about us, and (if we can) to ſave our throats from the violence of ſome deſperate perſons among you, but we beſeech you call not this a bearing Armes againſt the <hi>Parliament,</hi> it is againſt our wils (God knowes) as it is againſt <hi>His Majeſties.</hi> But if any of your party be ſo
+<pb n="6" facs="tcp:100835:4"/>reſpective of <hi>His Majeſties Royall authority</hi> eſtabliſhed by Law, ſo truely tender of <hi>His Perſon and Honour,</hi> ſo heartily deſirous of a happy Reformation as we, then let not God proſper our proceedings, but cauſe us to fall before you, and give us up in<g ref="char:EOLhyphen"/>to your hands: We are fallen upon by the cruell, and becauſe we will not give the Nineteenth <hi>(according to His Majeſties Preſage)</hi> with the Twentieth part of our e<g ref="char:EOLhyphen"/>ſtates, and breake our <hi>Oath of Allegiance,</hi> and goe contrary to our Proteſtation, and turne Rebels to <hi>His Majeſty,</hi> and ſo damne our ſoules, we are counted Traitors to the State and Enemies to the <hi>Common-wealth.</hi> We beſeech you conſider in the pre<g ref="char:EOLhyphen"/>ſence of God (if you have not forgot that there is a God) if any one of the Lords ſhould run upon any of you of the Commons with his drawn ſword, whether would you ſuffer death without reſiſtance, or take the ſword <hi>pro tempore</hi> out of his hand, and yet neither be averſe to his honour and perſon (if you can poſſibly think any of them more Honourable then your ſelves) or his propriety in his weapon? And may not the King much more ſeck to defend Himſelfe againſt you His Subjects that have taken up Arms againſt Him? Doth not nature teach us the preſervation of our ſelves? will not the eye wink without deliberation, and the ſmalleſt worme turne backe if you tread upon it? <q>Yet the argument is ſtronger, for He is not a meere man, <hi>one of your fellows;</hi> but a King, <hi>the Lords Anointed againſt whom there is no riſing up, Pro.</hi> 30.31. Be He never ſo ill conditioned (as we are ſure you cannot ſay ours is) <hi>it is damnation to reſiſt Him</hi> being offended by him, <hi>Rom.</hi> 13.2.</q> But againſt theſe Precepts ſome are wont to bring examples of Rebellion, and ſo argue <hi>a facto ad jus,</hi> and ſay in effect, that it is lawfull for the Subject to riſe up againſt their Sove<g ref="char:EOLhyphen"/>raigne becauſe they find ſome have ſo done: Pray marke it; We are peremptorily commanded in <hi>holy Scripture</hi> not to <hi>Touch the Lords Anointed,</hi> or to reſiſt Him being offended by Him, we find that ſome Rebels have tranſgreſſed theſe commands, and have unnaturally riſen up againſt their Soveraigne, therefore we will doe ſo too; which concluſion I leave to your underſtandings to judge how fair it is, for you are — wiſe. <q>But you war not you'l ſay againſt <hi>His Majeſty,</hi> you Honour and love <hi>His Perſon</hi> and labour <hi>to make Him Great,</hi> your only aim is againſt His wicked Coun<g ref="char:EOLhyphen"/>ſellors and curſed <hi>Cavaliers:</hi> Truly (let them be what they will be) but if you ſhould come to one of us, and proteſt ſo much, that you love us deerly and wiſh us well, and in the meane time Plunder our houſe, drive away our wife, keepe our children from us, impriſon our ſervants, and undoe all that take our part; Wee thinke ſo well of our ſelves as to thinke that there are very few of us (except ſome fooles that will let you cut their throats if you pleaſe) that durſt beleeve you.</q>
+            </p>
+            <p>But if all this were nothing, what an unmatched Act of Grace was it in <hi>His Ma<hi rend="sup">tie</hi>
+               </hi> to call a <hi>Parliament</hi> firſt, &amp; then to aſſent to the continuance of it during your pleaſure? (yet not ſo as if He then reſigned all <hi>his Power</hi> into your hands, giving you leave to do what you will, for He is ſtill your Head: &amp; hath his negative voice, and can affirm or deny whatſoever is voted by you) and will you be ſo unnaturally, ſo unmannerly ungratefull, <hi>(et ſi ingratum dixeris omnia dices)</hi> as to reſtraine His Power, who hath given unto you yours? He hath given you one end of the ſtaffe into your hand, &amp; will
+<pb n="7" facs="tcp:100835:4"/>you now pluck the other out of His? He hath made you Men, will you make no bo<g ref="char:EOLhyphen"/>dy now of Him? You could doe nothing without Him before, and will you doe all things without him now?</p>
+            <lg>
+               <l>— Pudeat haec opprobria vobis,</l>
+               <l>Et dici potuiſſe &amp; non potuiſſe refelli.</l>
+            </lg>
+            <p>But it's confeſt on all ſides, that the <hi>Major part hath the authority of the whole;</hi> &amp; if ſo, pray tell us, hath not the Head (the King) the Souldiers (the Nobles, moſt of them) the Heart <hi>(the Learned and Religious Clergy)</hi> the Armes and Hands (the valiant and well skill'd Souldiers) have not moſt of theſe deſerted you? And wee are ſure if this be not the <hi>Major part,</hi> it is the <hi>Melior,</hi> and that's <hi>better.</hi> And for the Common inferior parts, we would fain know how many are agents in your Cauſe; are not all things done by ten or twelve Sticklers, whileſt all the reſt (more for feare of the rod, then for love to the Cauſe (God knowes) ſit with their fin<g ref="char:EOLhyphen"/>ger in their mouthes, and ſay and doe juſt nothing?</p>
+            <p>I, but there are a world of <hi>Papiſts</hi> and other Malignants in His Majeſties Army, and 'twere a wonder if they ſhould ſight for the <hi>Proteſtant Religion:</hi> It were in<g ref="char:EOLhyphen"/>deed, but no wonder at all that they ſhould ſeek to defend themſelves being per<g ref="char:EOLhyphen"/>ſecuted, this nature teacheth <hi>Papiſts</hi> as well as <hi>Proteſtants;</hi> as for the Proteſtant Re<g ref="char:EOLhyphen"/>ligion, we never yet heard it called into queſtion, His Majeſty hath with ſo many <hi>Promiſes, Proteſtations and Execrations upon Himſelfe &amp; Children</hi> vowed the pre<g ref="char:EOLhyphen"/>ſervation of It, that we doe not ſo much as feare any alteration of It. But whileſt you fear the bringing in of Popery, blame us not we beſeech you, to fear likewiſe (whileſt we ſee no contradiction appeare to <hi>Prins, Burtons,</hi> with innumerable o<g ref="char:EOLhyphen"/>ther anonomicall, Seditious, Trayterous, and Blaſpheamous <hi>Pamphlets,</hi> ſold openly and read and ſung under your very Noſes) the introduction of <hi>Atheiſme, Rebellion,</hi> and all kind of <hi>Prophaneneſſe.</hi>
+            </p>
+            <p>Nobles and Gentlemen, many of both your <hi>Houſes</hi> did ſit a long time with you af<g ref="char:EOLhyphen"/>ter the King had left you, <q>but after they deſcried your wayes &amp; diſcovered your Plots (your plots are then diſcovered as well as others) and took notice of your <hi>Cloſe proceedings,</hi> How you delude the People with vain hopes; How you hire men with large rewards to come poſting in (when you mean to goe a begging for another ſumme) all beſmear'd with dirt and mire from ſuch and ſuch places,<note place="margin">I pray Sa<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </note> with ſuch newes as will pleaſe the people, when as they have never ſtirred foot out of Town, when they deſcerned how you tranſported the Wealth of the Land whileſt your Souldiers ſtarve; How you aime altogether at your own ends, not caring for the <hi>Diſtraction</hi> and <hi>Deſtruction</hi> of the Kingdom; How whileſt (to pleaſe the people) you pretend to beat down Popery, you ſet up Prophaneſſe and open a door to <hi>Libertiniſme and Licentiouſneſſe;</hi> How <hi>Looſe</hi> and <hi>Luxurious,</hi> how Blaſpheamous &amp; Atheiſticall many of your ſelves are, they then thought it high time to look about them, and to <hi>come out of Babell, least they ſhould be conſu<g ref="char:EOLhyphen"/>med with you in all your ſinnes:</hi>
+               </q> Oh, that the Lord would make it your Caſe, and glorify His mercy on you and us, in making known to you the things concerning our Peace, and not His juſtice in hardning you to deſtruction! That it may be never
+<pb n="8" facs="tcp:100835:5"/>read in our <hi>Chronicle</hi> by the Generations to come, that <hi>England</hi> had a <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> that ſought the deſolation of the King and Kingdom. But although you will not ſuf<g ref="char:EOLhyphen"/>fer His Majeſty to be your King, yet know there is a <hi>King</hi> and a <hi>Iudge</hi> above yo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> before whom you muſt very ſhortly ſtand, &amp; give an account of that truſt which we have repoſed in you. We deſire you in the preſence of God, to thinke and thinke ſeriouſly, and think again and again, how ſad it will be to have all this blood cha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ged upon your ſoules. Can you think of this with comfort when you are dying <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thoſe few <hi>ſtickling Counſellors</hi> which have put you on, then bring you as ſafely o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Your Greatneſſe may deſpiſe what we ſay, and caſt a way our <hi>Petition,</hi> &amp; i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſon us who had a hand in it (if you can catch us) &amp; count us <hi>your Enemies</hi> becauſe we are the Kings friends, and tell you the truth, &amp; ſpeak as dying men in the ſorrow of our ſoules; but you cannot ſo put by <hi>Divine Iuſtice</hi> nor quiet conſcience at the laſt. As true as the Lord liveth before whom you ſtand, you will one day know that <hi>Blaſphe<g ref="char:EOLhyphen"/>mers, Whoremaſters, Schiſmaticks and Traitors</hi> are not <hi>Gods friends,</hi> nor doe they fight <hi>His cauſe,</hi> but plain dealers, who do aſſure you the way you take tends to the utter ruine &amp; deſolation of <hi>your ſelves &amp; Kingdom.</hi> And can your Hearts <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> can your Hands be ſtrong in the day the Lord will reckon with you for this <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. People, whoſe charge you have taken out of <hi>His Majeſties</hi> Hands? Oh, ſuppoſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that you heard the blood of this People, already ſpilt, crying in your eares, and ſaw the many thouſands yet living a life worſe then death, lying in their ſorrowes at your feet crying for Pitty, Help, Oh Help, or we looſe our <hi>Liberties, Lawes, <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and Religion,</hi> Help that your ſelves, who have in this time horded up men <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> E<g ref="char:EOLhyphen"/>ſtates, come not to want and Beggery; help as ever you would have God help you in the day of Death <hi>and Iudgement,</hi> when your ſelves ſhall cry for help and pitty; help that Redemption come not ſome other way, that we be not all deſtroy<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d by ſome <hi>Forraign Nation.</hi> The <hi>Lord God</hi> of our hopes, who hath for our ſinne<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> moſt juſtly afflicted us in You, give you all diſcerning eyes, holy and tender hea<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, to yeeld to the Petition of <hi>His Majeſties</hi> diſtreſſed Subjects, to concurre with <hi>His Ma<g ref="char:EOLhyphen"/>jeſty,</hi> and the reſt of your <hi>Aſſembly,</hi> that <hi>God and man</hi> may forget your Miſtakings<g ref="char:punc">▪</g> that His Majeſty may be once again a <hi>Bleſſed Prince.</hi> yea the bleſſedeſt <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> raigned in our Land, the Terrour of all His reall <hi>Enemies,</hi> the joy of His <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and the <hi>Glory</hi> of Poſterity: Such ſhall be the Daily and hearty Prayer of,</p>
+            <closer>
+               <signed>Your Fellow-Subjects throughout th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> whole Kingdome.</signed>
+            </closer>
+            <pb facs="tcp:100835:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
